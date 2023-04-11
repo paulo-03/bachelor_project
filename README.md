@@ -1,6 +1,6 @@
-#FEASIBILITY CHECKS FOR THE OPTIMIZATION OF THE MATCHING IN DIAL-A-RIDE PROBLEM WITH NO PRE-BOOKING
+# FEASIBILITY CHECKS FOR THE OPTIMIZATION OF THE MATCHING IN DIAL-A-RIDE PROBLEM WITH NO PRE-BOOKING
 
-##Description
+## Description
 
 Provide a brief description of what your project does, what problem it solves, or what it's about.
 
@@ -8,7 +8,7 @@ During my undergraduate studies at Ecole Polythecnique Fédérale de Lausanne (E
 
 The PDF file of this project is also uploaded in this repository. You are welcome to read it to gain a better understanding of the content.
 
-##Installation
+## Installation
 
 You will need the following packages installed in your computer to run properly this work :
 - numpy
@@ -24,13 +24,10 @@ You will need the following packages installed in your computer to run properly 
 - time
 - os
 
-##Usage
+## Usage
 
 Explain how to use your project, including any command-line options, parameters, or configuration settings. Include examples of how to use your project.
 
 For proper usage of my project, please ensure that all data and file paths are correct on your computer. If any inconsistencies are found, please modify the relevant code to avoid any conflicts.
-
-
-##Credits
 
 **Authors:** [Lynn Fayed](https://people.epfl.ch/lynn.fayed)(my assistant) & [Paulo Alexandre Ribeiro de Carvalho](https://people.epfl.ch/paulo.ribeirodecarvalho)
